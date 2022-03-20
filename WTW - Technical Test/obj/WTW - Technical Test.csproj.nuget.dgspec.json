@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Kamil.Tajchman\\Source\\Repos\\myfinalll\\WTW - Technical Test\\WTW - Technical Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Kamil.Tajchman\\Source\\Repos\\myfinalll\\WTW - Technical Test\\WTW - Technical Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kamil.Tajchman\\Source\\Repos\\myfinalll\\WTW - Technical Test\\WTW - Technical Test.csproj",
+        "projectName": "WTW - Technical Test",
+        "projectPath": "C:\\Users\\Kamil.Tajchman\\Source\\Repos\\myfinalll\\WTW - Technical Test\\WTW - Technical Test.csproj",
+        "packagesPath": "C:\\Users\\Kamil.Tajchman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kamil.Tajchman\\Source\\Repos\\myfinalll\\WTW - Technical Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Kamil.Tajchman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://apetitodevops.pkgs.visualstudio.com/9219e611-1e7c-415c-8706-8f177b48e756/_packaging/Apetito-Nuget/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/apetitodevops/63e86003-cb93-4e2c-a9c6-4771a6270548/_packaging/helpful-feed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[27.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.417\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
