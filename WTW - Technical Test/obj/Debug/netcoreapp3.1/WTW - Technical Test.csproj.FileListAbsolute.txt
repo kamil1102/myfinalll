@@ -1,0 +1,15 @@
+C:\dev\WTW - Technical Test\WTW - Technical Test\bin\Debug\netcoreapp3.1\WTW - Technical Test.exe
+C:\dev\WTW - Technical Test\WTW - Technical Test\bin\Debug\netcoreapp3.1\WTW - Technical Test.deps.json
+C:\dev\WTW - Technical Test\WTW - Technical Test\bin\Debug\netcoreapp3.1\WTW - Technical Test.runtimeconfig.json
+C:\dev\WTW - Technical Test\WTW - Technical Test\bin\Debug\netcoreapp3.1\WTW - Technical Test.runtimeconfig.dev.json
+C:\dev\WTW - Technical Test\WTW - Technical Test\bin\Debug\netcoreapp3.1\WTW - Technical Test.dll
+C:\dev\WTW - Technical Test\WTW - Technical Test\bin\Debug\netcoreapp3.1\WTW - Technical Test.pdb
+C:\dev\WTW - Technical Test\WTW - Technical Test\obj\Debug\netcoreapp3.1\WTW - Technical Test.csprojAssemblyReference.cache
+C:\dev\WTW - Technical Test\WTW - Technical Test\obj\Debug\netcoreapp3.1\WTW - Technical Test.AssemblyInfoInputs.cache
+C:\dev\WTW - Technical Test\WTW - Technical Test\obj\Debug\netcoreapp3.1\WTW - Technical Test.AssemblyInfo.cs
+C:\dev\WTW - Technical Test\WTW - Technical Test\obj\Debug\netcoreapp3.1\WTW - Technical Test.dll
+C:\dev\WTW - Technical Test\WTW - Technical Test\obj\Debug\netcoreapp3.1\WTW - Technical Test.pdb
+C:\dev\WTW - Technical Test\WTW - Technical Test\obj\Debug\netcoreapp3.1\WTW - Technical Test.genruntimeconfig.cache
+C:\dev\WTW - Technical Test\WTW - Technical Test\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\dev\WTW - Technical Test\WTW - Technical Test\obj\Debug\netcoreapp3.1\WTW - Technical Test.csproj.CoreCompileInputs.cache
+C:\dev\WTW - Technical Test\WTW - Technical Test\obj\Debug\netcoreapp3.1\WTW - Technical Test.csproj.CopyComplete
